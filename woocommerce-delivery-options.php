@@ -3,8 +3,8 @@
  * Plugin Name: WooCommerce Delivery Options
  * Description: Dynamically adds delivery options on the checkout page, hides billing details until a delivery option is selected, and allows managing options in the admin.
  * Version:           1.0.0
- * Author:            Imagen Web Pro
- * Author URI:        https://imagenwebpro.com/
+ * Author:            Muhammad Karrar
+ * Author URI:        https://muhammadkarrar.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       woocommerce-delivery-options
